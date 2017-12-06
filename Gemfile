@@ -12,6 +12,8 @@ gem 'rails', '~> 5.0.6'
 gem 'sqlite3', group: :development
 gem 'pg', group: :production
 gem 'rails_12factor', group: :production
+gem 'devise'
+gem 'activeadmin'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
